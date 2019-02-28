@@ -1,2 +1,2 @@
-# uls
-This project contains some tests belonging to a blog post about learning the sizes arrays, slices or maps are going to reach using Machine Learning (ML) to increase  programs’ performance by allocating the necessary memory in advance instead of reallocating every time new elements are appended.
+# Tests for using Machine Learning to improve performance of Go programs
+This project contains some tests belonging to [this blog post](https://blog.mi.hdm-stuttgart.de/index.php/2019/02/28/about-using-machine-learning-to-improve-performance-of-go-programs/) about learning the sizes arrays, slices or maps are going to reach using Machine Learning (ML) to increase  programs’ performances by allocating the necessary memory in advance instead of reallocating every time new elements are appended.
